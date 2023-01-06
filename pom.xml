@@ -61,6 +61,13 @@
 			<version>2.11.0</version>
 		</dependency>
 		<!-- End HTTP Trace Logs -->
+
+		<dependency>
+			<groupId>org.springdoc</groupId>
+			<artifactId>springdoc-openapi-ui</artifactId>
+			<version>1.6.9</version>
+		</dependency>
+
 	</dependencies>
 
 	<build>
